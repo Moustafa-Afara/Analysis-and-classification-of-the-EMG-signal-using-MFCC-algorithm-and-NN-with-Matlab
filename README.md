@@ -1,0 +1,2 @@
+# Analysis-and-classification-of-the-EMG-signal-using-MFCC-algorithm-and-NN-with-Matlab
+ This project aims to analyze and classify EMG (Electromyography) signals by applying the MFCC algorithm and training neural networks. The goal is to extract informative features from EMG signals and build a model for accurate classification. The project has applications in areas like gesture recognition, prosthetics control, and muscle disorder diagnosis.
